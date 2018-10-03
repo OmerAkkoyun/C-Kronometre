@@ -1,0 +1,10 @@
+C:\Users\Ömer\source\repos\4.uygulama Kronometre\4.uygulama Kronometre\bin\Debug\4.uygulama Kronometre.exe.config
+C:\Users\Ömer\source\repos\4.uygulama Kronometre\4.uygulama Kronometre\bin\Debug\4.uygulama Kronometre.exe
+C:\Users\Ömer\source\repos\4.uygulama Kronometre\4.uygulama Kronometre\bin\Debug\4.uygulama Kronometre.pdb
+C:\Users\Ömer\source\repos\4.uygulama Kronometre\4.uygulama Kronometre\obj\Debug\4.uygulama Kronometre.csprojAssemblyReference.cache
+C:\Users\Ömer\source\repos\4.uygulama Kronometre\4.uygulama Kronometre\obj\Debug\_4.uygulama_Kronometre.Form1.resources
+C:\Users\Ömer\source\repos\4.uygulama Kronometre\4.uygulama Kronometre\obj\Debug\_4.uygulama_Kronometre.Properties.Resources.resources
+C:\Users\Ömer\source\repos\4.uygulama Kronometre\4.uygulama Kronometre\obj\Debug\4.uygulama Kronometre.csproj.GenerateResource.cache
+C:\Users\Ömer\source\repos\4.uygulama Kronometre\4.uygulama Kronometre\obj\Debug\4.uygulama Kronometre.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\source\repos\4.uygulama Kronometre\4.uygulama Kronometre\obj\Debug\4.uygulama Kronometre.exe
+C:\Users\Ömer\source\repos\4.uygulama Kronometre\4.uygulama Kronometre\obj\Debug\4.uygulama Kronometre.pdb
